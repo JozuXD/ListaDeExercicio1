@@ -32,7 +32,7 @@ public class exerIf {
 							
 		}
 		
-		if(soma == num3) {
+		else if(soma == num3) {
 			System.out.println("\n"+num1+" + "+num2+" = "+soma+" = "+num3);
 			System.out.println("\nA soma de A + B é Igual a C");
 							
