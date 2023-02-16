@@ -21,10 +21,10 @@ public class exerVetor1 {
 			}		
 			
 		}
-		if(indice != n1) {
+		if(indice != n1 || indice == 0) {
 			System.out.println("\nO numero "+n1+" não foi encontrado!");
 		}
-
+		
 	}
 
 }
